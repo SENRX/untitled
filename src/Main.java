@@ -35,8 +35,6 @@ public class Main {
         System.out.println("Количество пододеяльников, которые можно сшить: " + numberOfBeddings);
 
         //5 задача
-        int a = 10;
-        int b = 5;
         int result = findLargerNumber(5, 9);
         System.out.println("Большее число: " + result);
 
