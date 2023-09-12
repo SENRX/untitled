@@ -2,8 +2,8 @@ public class Main {
     public static void main(String[] args) {
 
         //10 задача
-        int students1 = 10;
-        int desks1 = 3;
+        int students1 = 5;
+        int desks1 = 10;
         int shortage1 = tables(students1, desks1);
         System.out.println("Не хватает " + shortage1 + " столов.");
 
